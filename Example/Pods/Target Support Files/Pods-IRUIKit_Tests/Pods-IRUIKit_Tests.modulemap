@@ -1,0 +1,6 @@
+framework module Pods_IRUIKit_Tests {
+  umbrella header "Pods-IRUIKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

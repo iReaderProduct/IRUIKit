@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - IRUIKit (0.1.1)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - IRUIKit (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  IRUIKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  IRUIKit: 6213c204d3998fe9061ae45d4d604031af136cfb
+
+PODFILE CHECKSUM: 25d3a6af888f10327f91cffdf7573d32bea6135c
+
+COCOAPODS: 1.9.0.beta.2
